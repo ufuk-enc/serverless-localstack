@@ -1,0 +1,10 @@
+{
+  "name": "serverless-localstack-poc",
+  "version": "1.0.0",
+  "description": "POC for Serverless Framework and Localstack.",
+  "author": "Ufuk Enc, <Ufuk.Enc@accenture.com>",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "serverless-localstack": "^0.4.34"
+  }
+}
